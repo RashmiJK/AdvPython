@@ -1,1 +1,1 @@
-# AdvPython
+# Useful concepts in Python
